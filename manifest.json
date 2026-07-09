@@ -1,0 +1,21 @@
+{
+  "name": "MacusApp",
+  "short_name": "MacusApp",
+  "description": "Capture knowledge. Connect ideas. Build understanding.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f6f8fb",
+  "theme_color": "#0f3d5e",
+  "icons": [
+    {
+      "src": "assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
